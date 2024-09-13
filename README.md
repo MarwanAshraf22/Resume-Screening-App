@@ -22,8 +22,3 @@ This project is a machine learning-based Resume Screening App that aims to autom
   - `docx`
   - `pdfplumber`
   - `re`
-
-Install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
